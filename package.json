@@ -4,7 +4,7 @@
   "description": "",
   "main": "es/index.js",
   "types": "types/index.d.ts",
-  "author": "jingyu",
+  "author": "Ruimve",
   "license": "MIT",
   "scripts": {
     "build": "webpack",
@@ -19,12 +19,12 @@
   "keywords": [],
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/robot12580/TEMPLATE-LIB-WEBPACK.git"
+    "url": "git+https://github.com/Ruimve/TEMPLATE-LIB-WEBPACK.git"
   },
   "bugs": {
-    "url": "https://github.com/robot12580/TEMPLATE-LIB-WEBPACK/issues"
+    "url": "https://github.com/Ruimve/TEMPLATE-LIB-WEBPACK/issues"
   },
-  "homepage": "https://github.com/robot12580/TEMPLATE-LIB-WEBPACK#readme",
+  "homepage": "https://github.com/Ruimve/TEMPLATE-LIB-WEBPACK#readme",
   "devDependencies": {
     "@commitlint/cli": "^17.4.2",
     "@commitlint/config-conventional": "^17.4.2",

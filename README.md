@@ -1,23 +1,25 @@
-<div align="center">
-  <h1>模板库</h1>
+# TEMPLATE-WEBPACK-ROLLUP
+🌈 类库模板！全面好用！！🔥 欢迎提交 PR: [CONTRIBUTING](https://www.conventionalcommits.org)
 
-  <a href="https://github.com/robot12580">
-    <img
-      width="80"
-      alt="robot12580"
-      src="https://github.com/robot12580/materials/blob/main/images/dog2.png?raw=true"
-    />
-  </a>
+## 基础构建
+|技术栈|描述|
+|:---:|:--:|
+|[webpack](https://www.webpackjs.com/)|构建工具|
+|[rollup/plugins](https://github.com/rollup/plugins)|打包插件|
 
-  <p>模板库简介</p>
-</div>
+## 代码规范
+|技术栈|描述|
+|:---:|:--:|
+|[typescript](https://www.tslang.cn/index.html)|类型约束|
+|[commitlint](https://github.com/conventional-changelog/commitlint#getting-started)|提交约束|
+|[release-please](https://github.com/googleapis/release-please)|日志|
 
-## 架构
-- 打包: [webpack](https://www.webpackjs.com/)
-- 类型检查: [typescript](https://www.tslang.cn/index.html)
-- 单元测试: [jest](https://jestjs.io/)
-- 提交校验: [commitlint](https://github.com/conventional-changelog/commitlint#getting-started)
-- 变更日志: [release-please](https://github.com/googleapis/release-please)
-- 持续集成: Github Actions
-- 欢迎提交 PR: [CONTRIBUTING](https://www.conventionalcommits.org)
-- 证书: MIT
+## 测试框架
+|技术栈|描述|
+|:---:|:--:|
+|[jest](https://jestjs.io/)|通用测试框架|
+
+## 持续集成
+|技术栈|描述|
+|:---:|:--:|
+|**Github Actions**|ci|
