@@ -5,7 +5,6 @@
 |技术栈|描述|
 |:---:|:--:|
 |[webpack](https://www.webpackjs.com/)|构建工具|
-|[rollup/plugins](https://github.com/rollup/plugins)|打包插件|
 
 ## 代码规范
 |技术栈|描述|
